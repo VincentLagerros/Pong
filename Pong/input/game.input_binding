@@ -1,0 +1,20 @@
+key_trigger {
+  input: KEY_W
+  action: "w"
+}
+key_trigger {
+  input: KEY_S
+  action: "s"
+}
+key_trigger {
+  input: KEY_SPACE
+  action: "start"
+}
+key_trigger {
+  input: KEY_UP
+  action: "up"
+}
+key_trigger {
+  input: KEY_DOWN
+  action: "down"
+}
